@@ -1,0 +1,6 @@
+[Desktop Entry]
+Type=Application
+Name=CMDMonitor
+Exec=mono /usr/share/cmdmonitor/CMDMonitor/bin/Debug/CMDMonitor.exe
+Icon=/usr/share/cmdmonitor/icons/onedr.png
+Terminal=false
