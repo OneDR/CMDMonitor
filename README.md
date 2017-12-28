@@ -27,7 +27,10 @@ Hermes is super easy to install. We will make it specially simple by making .sh 
 
 3. Open a terminal in that directory (of the extracted files)
 
-4. type '''sudo ./install.sh'''
+4. type 
+'''
+sudo ./install.sh
+'''
 
 5. Done! Now you can search up CMDMonitor and it should pop up there!
 
