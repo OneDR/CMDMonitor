@@ -1,0 +1,8 @@
+/home/coco/Projects/SshWrapper/SshWrapper/obj/x86/Release/.NETFramework,Version=v4.5.AssemblyAttribute.cs
+/home/coco/Projects/SshWrapper/SshWrapper/obj/x86/Release/SshWrapper.Properties.Resources.resources
+/home/coco/Projects/SshWrapper/SshWrapper/bin/Release/SshWrapper.exe.config
+/home/coco/Projects/SshWrapper/SshWrapper/bin/Release/SshWrapper.exe
+/home/coco/Projects/SshWrapper/SshWrapper/obj/x86/Release/SshWrapper.exe
+/home/coco/Projects/SshWrapper/SshWrapper/bin/Release/Newtonsoft.Json.dll
+/home/coco/Projects/SshWrapper/SshWrapper/bin/Release/Renci.SshNet.dll
+/home/coco/Projects/SshWrapper/SshWrapper/bin/Release/Renci.SshNet.Async.dll

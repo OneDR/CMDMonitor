@@ -3,6 +3,6 @@ sudo apt-key adv --keyserver hkp://keyserver.ubuntu.com:80 --recv-keys 3FA7E0328
 echo "deb http://download.mono-project.com/repo/debian wheezy main" | sudo tee /etc/apt/sources.list.d/mono-official.list
 sudo apt-get update
 sudo apt-get install mono-complete
-sudo tar xf cmdmonitor.tar.gz -C /usr/share/
-sudo mv cmdmonitor.desktop /usr/share/applications/
+sudo tar xf hermes.tar.gz -C /usr/share/
+sudo mv hermes.desktop /usr/share/applications/
 

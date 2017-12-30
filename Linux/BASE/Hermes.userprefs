@@ -1,0 +1,10 @@
+﻿<Properties StartupConfiguration="{3AD0998D-8C37-4272-A6BC-5AE03F46D9D2}|Default">
+  <MonoDevelop.Ide.Workbench />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug|x86" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MultiItemStartupConfigurations />
+  <MonoDevelop.Ide.ItemProperties.SshWrapper PreferredExecutionTarget="MonoDevelop.Default" />
+</Properties>

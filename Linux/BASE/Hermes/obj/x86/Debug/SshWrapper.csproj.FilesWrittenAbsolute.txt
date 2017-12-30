@@ -1,0 +1,9 @@
+/home/coco/Desktop/SshWrapper.linux.03/SshWrapper/SshWrapper/obj/x86/Debug/.NETFramework,Version=v4.5.AssemblyAttribute.cs
+/home/coco/Desktop/SshWrapper.linux.03/SshWrapper/SshWrapper/obj/x86/Debug/SshWrapper.Properties.Resources.resources
+/home/coco/Desktop/SshWrapper.linux.03/SshWrapper/SshWrapper/bin/Debug/CMDSecure.exe.config
+/home/coco/Desktop/SshWrapper.linux.03/SshWrapper/SshWrapper/bin/Debug/CMDSecure.exe.mdb
+/home/coco/Desktop/SshWrapper.linux.03/SshWrapper/SshWrapper/bin/Debug/CMDSecure.exe
+/home/coco/Desktop/SshWrapper.linux.03/SshWrapper/SshWrapper/obj/x86/Debug/CMDSecure.exe
+/home/coco/Desktop/SshWrapper.linux.03/SshWrapper/SshWrapper/obj/x86/Debug/CMDSecure.exe.mdb
+/home/coco/Desktop/SshWrapper.linux.03/SshWrapper/SshWrapper/bin/Debug/Renci.SshNet.dll
+/home/coco/Desktop/SshWrapper.linux.03/SshWrapper/SshWrapper/bin/Debug/Newtonsoft.Json.dll

@@ -1,0 +1,6 @@
+[Desktop Entry]
+Type=Application
+Name=Hermes
+Exec=mono /usr/share/hermes/hermes/bin/Debug/hermes.exe
+Icon=/usr/share/hermes/icons/onedr.png
+Terminal=false
